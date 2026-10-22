@@ -1,32 +1,42 @@
-# Hi, I'm Murali Krishnan 👋
+# Hi, I'm Murali Krishna 👋
 
-🎓 **B.Tech Computer Science Engineering Student at VIT-AP University**
+### Computer Science Engineering Student | Aspiring Software Developer
 
-I'm a computer science student interested in software engineering, web development, and problem-solving. I enjoy learning new technologies and applying programming concepts to practical projects.
+I'm a B.Tech Computer Science student at VIT-AP University, interested in building practical software applications and strengthening my problem-solving skills.
 
-## 🚀 About Me
+* 🎓 B.Tech in Computer Science Engineering (2024–2028)
+* 💻 Interested in Java development, backend engineering, and full-stack development
+* 🌱 Currently learning Spring Boot and improving my Data Structures and Algorithms skills
+* 🚀 Building projects to apply my knowledge to real-world problems
 
-* 🎓 Pursuing B.Tech in Computer Science and Engineering at VIT-AP.
-* 💻 Programming in Java, Python, and JavaScript.
-* 🌐 Learning web development with HTML, CSS, and JavaScript.
-* 🧠 Practising Data Structures and Algorithms in Java.
-* 🛠️ Building projects to strengthen my programming and software development skills.
-* 🎯 Working towards becoming a full-stack software engineer.
+---
 
 ## 🛠️ Technical Skills
 
-**Programming Languages**
+**Languages**
 
 * Java
+* JavaScript
 * Python
-* C
+* C/C++ fundamentals
+
+**Web Development**
+
+* HTML
+* CSS
 * JavaScript
 
-**Web Technologies**
+**Backend Development**
 
-* HTML5
-* CSS3
-* JavaScript
+* Spring Boot
+* REST API fundamentals
+
+**Tools**
+
+* Git
+* GitHub
+* VS Code
+* Maven
 
 **Core Concepts**
 
@@ -34,46 +44,58 @@ I'm a computer science student interested in software engineering, web developme
 * Data Structures and Algorithms
 * Problem Solving
 
-**Tools**
+---
 
-* Git
-* GitHub
-* Visual Studio Code
-
-## 📂 Projects
+## 🚀 Featured Projects
 
 ### 🏦 Bank Management System
 
-A banking application that supports account creation, deposits, and withdrawals.
+A Java console application for account creation, deposits, withdrawals, and balance management.
 
-**Technologies:** Java / project-specific technologies
+**Technologies:** Java, OOP
 
-[View Repository](https://github.com/Murali747/bank-management)
+### 📚 Student Management System
 
-### 🎨 Personal Portfolio
+A student management application developed using Spring Boot.
 
-A website project demonstrating my experience with HTML and basic web development.
+**Technologies:** Java, Spring Boot
 
-[View Repository](https://github.com/Murali747/html.protfolio)
+### 🧮 Interactive Calculator
 
-### 📄 Resume Website
+A browser-based calculator supporting arithmetic operations through an interactive interface.
 
-A web-based resume project built with HTML.
+**Technologies:** HTML, CSS, JavaScript
 
-[View Repository](https://github.com/Murali747/rdjresumee)
+### ✅ TaskFlow — To-Do List
 
-## 🌱 Currently Learning
+A responsive task manager with task filtering, completion tracking, and browser-based data persistence.
 
-* Advanced JavaScript
-* DOM manipulation and browser APIs
-* Responsive web development
-* Full-stack development fundamentals
+**Technologies:** HTML, CSS, JavaScript, localStorage
 
-## 📫 Connect With Me
+### 🌐 Personal Portfolio
 
-* **GitHub:** [Murali747](https://github.com/Murali747)
-* **LinkedIn:** [Murali Krishnan R](https://www.linkedin.com/in/murali-krishnan-r-bb7391320/)
+A personal website showcasing my background and projects.
+
+**Technologies:** HTML, CSS
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🎯 Current Goals
+
+* Strengthen my DSA and problem-solving skills.
+* Build backend applications using Java and Spring Boot.
+* Improve my understanding of REST APIs and databases.
+* Contribute to meaningful software projects.
+* Prepare for software development internships.
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: [@Murali747](https://github.com/Murali747)
+
+I'm always interested in learning, building, and exploring opportunities in software development.
+
+---
+
+*Learning continuously. Building consistently.*
